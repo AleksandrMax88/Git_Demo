@@ -6,5 +6,8 @@ def add(a, b):
     assert isinstance(b, object)
     return a + b
 
+def presto():
+    pass
+
 def prog():
     pass
